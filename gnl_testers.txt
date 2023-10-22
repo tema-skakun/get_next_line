@@ -1,0 +1,3 @@
+git clone https://github.com/PavelICS/gnl-war-machine-v2019.git
+
+git clone https://github.com/Tripouille/gnlTester.git
